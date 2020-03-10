@@ -1,2 +1,2 @@
 main :  QuadraticEvolution.c main.c
-			gcc *.c -lm
+			gcc *.c -o main -lm
